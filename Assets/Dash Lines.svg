@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="392" height="416" viewBox="0 0 392 416">
+  <defs>
+    <clipPath id="clip-Dash_Lines">
+      <rect width="392" height="416"/>
+    </clipPath>
+  </defs>
+  <g id="Dash_Lines" data-name="Dash Lines" clip-path="url(#clip-Dash_Lines)">
+    <rect width="392" height="416" fill="rgba(130,65,65,0)"/>
+    <line id="Line_47" data-name="Line 47" x1="363" transform="translate(13.5 13.5)" fill="none" stroke="#000" stroke-width="2" stroke-dasharray="20"/>
+    <line id="Line_46" data-name="Line 46" y1="390" transform="translate(376.5 13.5)" fill="none" stroke="#000" stroke-width="2" stroke-dasharray="20"/>
+  </g>
+</svg>
