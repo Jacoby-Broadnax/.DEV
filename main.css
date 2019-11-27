@@ -27,7 +27,7 @@ nav {
 
 .splash-container {margin: auto; width: 250px;margin-top: 40vh;}
 
-.splash-container > video {width: 250px;background-color: white;}
+.splash-container > div > video {width: 250px;background-color: white;}
 
 .splash-container > img {width: 235px;margin-top: -190px;z-index: 15;position: relative;}
 
