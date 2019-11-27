@@ -23,6 +23,15 @@ nav {
     margin-top: 5px;
 }
 
+.splash-screen {background-color: rgb(254, 254, 254); width: 100%; position: fixed; left: 0px; top: 0px; height: 100%;z-index: 150;}
+
+.splash-container {margin: auto; width: 250px;margin-top: 40vh;}
+
+.splash-container > video {width: 250px;background-color: white;}
+
+.splash-container > img {width: 235px;margin-top: -190px;z-index: 15;position: relative;}
+
+
 .text-container>p {
     margin-top: -7px;
     ;
