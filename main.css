@@ -1,0 +1,17 @@
+.form-container {margin: auto; width: 700px;}
+
+.brand-logo > img {width: 80px;margin-top: -8px;}
+
+nav {box-shadow:none !important,}
+
+.logo {width: 120px;float: left;;}
+
+.text-container {float: left;margin-top: 5px;}
+
+.text-container > p {margin-top: -7px;;}
+
+.top {margin: auto; width: 600px;;}
+
+.btn-container {margin: auto; width: 150px;}
+
+form {margin-bottom: 100px;}
